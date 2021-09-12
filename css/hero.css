@@ -1,0 +1,39 @@
+.hero {
+  min-height: 800px;
+  overflow: hidden;
+}
+
+.hero-container{
+  padding: 120px 0 140px;
+}
+
+.small-container {
+    max-width: 255px;
+    margin-top: 80px;
+}
+
+.small-title {
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.625rem;
+    color:#091133;
+    margin-top: 14px;
+}
+
+.small-paragraph {
+    font-weight: 400;
+    font-size: 0.75rem;
+    line-height: 1.125rem;
+    color:#5D6970;
+    margin-top: 6px;
+}
+
+.hero-inner {
+  max-width: 540px;
+}
+
+.bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
